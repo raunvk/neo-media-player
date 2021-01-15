@@ -14,5 +14,9 @@
 
 **Unsupported Formats** : MKV
 
+**Sample Screenshot** :
+
+![](screenshot.png)
+
 
 
