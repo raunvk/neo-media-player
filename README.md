@@ -1,2 +1,18 @@
 # neo-media-player
-Media Player using JavaFX
+
+**Description** : Media Player using JavaFX
+
+**Requisite** : Make sure you have WinRAR installed in your System
+
+**For Windows OS** :
+
+1. Extract all 3 parts of the setup inside the **setup** directory
+
+2. Run **setup.exe** to install NeoMediaPlayer in your System.
+
+**Supported Formats** : MP3/MP4/WAV/AIFF/FLV/AVC
+
+**Unsupported Formats** : MKV
+
+
+
