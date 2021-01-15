@@ -10,7 +10,7 @@
 
 2. Run **setup.exe** to install NeoMediaPlayer in your System
 
-**Theater Mode** : Double click to enter. Press Esc to exit
+**Theater Mode** : Double click to enter, Press Esc to exit
 
 **Supported Formats** : MP3/MP4/WAV/AIFF/FLV/AVC
 
