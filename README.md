@@ -10,6 +10,10 @@
 
 2. Run **setup.exe** to install NeoMediaPlayer in your System.
 
+3. **Double click** to enter **Theater Mode**
+
+4. **Press Esc** to exit **Theater Mode**
+
 **Supported Formats** : MP3/MP4/WAV/AIFF/FLV/AVC
 
 **Unsupported Formats** : MKV
