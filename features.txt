@@ -17,3 +17,5 @@ Extensive Features :
 3) Playback Speed 0.75
 4) Back 10 seconds
 5) Skip 10 seconds
+6) Double click to enter Theater Mode
+7) Press Esc to exit Theater Mode
