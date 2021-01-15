@@ -1,0 +1,19 @@
+Supported Video Formats :
+
+1) MP4
+2) FLV
+3) AVC
+
+Supported Audio Formats :
+
+1) MP3
+2) WAV
+3) AIFF
+
+Extensive Features :
+
+1) Play/Pause/Stop
+2) Playback speed 1.5
+3) Playback Speed 0.75
+4) Back 10 seconds
+5) Skip 10 seconds
