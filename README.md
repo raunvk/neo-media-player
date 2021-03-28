@@ -4,7 +4,7 @@
 
 **Requisite** : Make sure you have WinRAR installed in your System
 
-**How to Run** :
+**How to Run (Windows)** :
 
 1. Extract all 3 parts of the setup inside the **setup** directory using WinRAR
 
