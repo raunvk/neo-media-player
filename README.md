@@ -1,6 +1,6 @@
 # neo-media-player
 
-**Description** : Media Player using JavaFX
+**Description** : Ready to Install Media Player using JavaFX
 
 **Requisite** : Make sure you have WinRAR installed in your System
 
